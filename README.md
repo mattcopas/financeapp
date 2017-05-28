@@ -3,6 +3,8 @@
 ### Cancel transactions ###
 ### Add repeating transactions ###
 ### Edit transanctions ###
+### Add monthly income table ###
+### Add monthly expenses table ###
 ### API Authentication/login ###
 ### Design graphs for overall statistics ###
 ### Design graphs for account statistics ###
